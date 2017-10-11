@@ -7,3 +7,4 @@
 * C++ Primer Plus
 * C++ Primer
 * effective C++
+* more effective C++
